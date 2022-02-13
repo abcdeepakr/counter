@@ -1,1 +1,1 @@
-# Add or subtract, good way to track scores.
+# learning js
